@@ -1,0 +1,12 @@
+ma\projet\classes\Produit.class
+ma\projet\classes\Commande.class
+ma\projet\classes\LigneCommande.class
+ma\projet\classes\LigneCommandePK.class
+ma\projet\util\HibernateUtil.class
+service\LigneCommandeService.class
+service\ProduitService.class
+service\CategorieService.class
+service\CommandeService.class
+ma\projet\classes\Categorie.class
+org\example\Main.class
+dao\IDao.class
